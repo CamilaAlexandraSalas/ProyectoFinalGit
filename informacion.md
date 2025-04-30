@@ -5,3 +5,5 @@
 ## Edad: 
 
 ## estatura: 
+
+## comida fav: 
