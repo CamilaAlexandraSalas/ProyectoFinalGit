@@ -1,3 +1,5 @@
 # informacion personal
 
 ## Nombre: 
+
+## Edad: 
