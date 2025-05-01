@@ -31,7 +31,7 @@ Este archivo contiene una clasificación personal de películas organizadas por 
 
 ---
 
-## Si tienes alguna recomendacion o comentario me encantario que lo compartieras!:
+## Si tienes alguna recomendacion o comentario me encantaria que lo compartieras:
 1. 
 
 saludos
