@@ -53,5 +53,3 @@ Diseñé una fuente de voltaje con una salida fija y dos variables (una positiva
 - Diseño en protoboard y circuito impreso
 
 ---
-graciaaas
-adios
