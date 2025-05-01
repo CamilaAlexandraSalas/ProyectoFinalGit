@@ -1,6 +1,6 @@
 # 📂 Proyecto Final – Curso de Git & GitHub (Gen 1)
 
-Este repositorio contiene el proyecto final del curso de **Git / GitHub - Generación 1**, donde se aplican los conocimientos adquiridos sobre control de versiones, ramas, commits, pull requests y colaboración en GitHub.
+Este repositorio contiene el proyecto final del curso de **Git / GitHub**, donde se aplican los conocimientos adquiridos sobre control de versiones, ramas, commits, pull requests y colaboración en GitHub.
 
 ## 📁 Estructura del Proyecto
 
