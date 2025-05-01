@@ -31,6 +31,8 @@ Este archivo contiene una clasificación personal de películas organizadas por 
 
 ---
 
+## Comentarios Adicionales:
+1. La pelicula de **Whiplash** es una pelicula que considero todos tenemos que ver, ya que nos hace refelxionar sobre cual es nuestro proposito en esta vida. 
 
 saludos
 hasta luego
