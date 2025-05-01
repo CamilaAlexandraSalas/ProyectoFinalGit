@@ -4,6 +4,10 @@
 
 ---
 
+## Un poco sobre mi:
+
+Me encanta ver peliculas de todo tipo, aprender cosas, ir al gimnasio y sobre todo conocer gente nueva.
+
 ## 📌 Datos Personales
 
 - **Nombre:** Eduardo Jiménez
