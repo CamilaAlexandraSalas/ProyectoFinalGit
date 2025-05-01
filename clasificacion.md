@@ -33,6 +33,3 @@ Este archivo contiene una clasificación personal de películas organizadas por 
 
 ## Si tienes alguna recomendacion o comentario me encantaria que lo compartieras:
 1. 
-
-saludos
-hasta luego
